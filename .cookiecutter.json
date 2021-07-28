@@ -1,5 +1,5 @@
 {
-    "_template": "/tmp/a6f57b5a-e2c7-4dfd-a053-ad623314b1f1_step-fetch-base-Z3SCBK/template",
+    "_template": "https://github.com/fp-mt-test-org/template-v2-test",
     "component_id": "das-template-test",
     "java_package_name": "packagename"
 }
